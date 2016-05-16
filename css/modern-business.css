@@ -1,0 +1,245 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-portfolio {
+    margin-bottom: 20px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 80%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Footer Styles */
+
+footer {
+    margin: 50px 0;
+    text-align: left;
+    color: #fff
+    background: #424242;
+}
+
+/* Responsive Styles */
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 80%;
+    }
+}
+
+
+.CTA {
+  color: #fff;
+  background: #616161;
+  padding: 1.5em;
+}
+
+/* MAIN STYLE */
+
+.BS-header {
+  align-content: center;
+  text-decoration: none;
+  color: #fff;
+  background: #01983f;
+  padding: 1em;
+}
+
+.HEADLINE {
+  align-content: center;
+  padding: 1em;
+}
+
+.SC-white {
+  align-content: left;
+  text-decoration: none;
+  background: #fff;
+  padding: 2em;
+}
+
+.SC-white h4 {
+  color: #ef5350;
+}
+
+.line-SC {
+  background-color: #00C853;
+  width: 92%;
+  height: 3px;
+  display: inline-block;
+  margin: 14px 0px;
+}
+
+.SC-1 {
+  align-content: left;
+  text-decoration: none;
+  color: #fff;
+  background: #fff;
+  padding: 3em;
+}
+
+.SC-2 {
+  text-decoration: none;
+  align-content: center;
+  font-size: 15px;
+  color: #fff;
+  background: #4FC3F7;
+  padding: 2em;
+}
+
+#SC-2 {
+    text-decoration: none;
+    align-content: center;
+    font-size: 15px;
+    color: #fff;
+    background: #4FC3F7;
+    padding: 2em;
+}
+
+
+/* Bottles STYLE */
+
+.B-header {
+  align-content: center;
+  text-decoration: none;
+  color: #fff;
+  background: #01983f;
+  padding: 1em;
+}
+
+.B-white {
+  align-content: left;
+  text-decoration: none;
+  background: #fff;
+  padding: 2em;
+}
+
+.B-white h4 {
+  color: #ef5350;
+}
+
+.line-B {
+  background-color: #00C853;
+  width: 92%;
+  height: 3px;
+  display: inline-block;
+  margin: 14px 0px;
+}
+
+.B-1 {
+  align-content: left;
+  text-decoration: none;
+  color: #fff;
+  background: #fff;
+  padding: 3em;
+}
+
+.B-2 {
+  text-decoration: none;
+  align-content: center;
+  font-size: 15px;
+  color: #fff;
+  background: #4FC3F7;
+  padding: 2em;
+}
+
+#B-2 {
+    text-decoration: none;
+    align-content: center;
+    font-size: 15px;
+    color: #fff;
+    background: #4FC3F7;
+    padding: 2em;
+}
+
+.space {
+  align-content: center;
+  padding: 2em;
+}
+/* snapchat STYLE */
+
+.SC-header {
+  align-content: center;
+  text-decoration: none;
+  color: #000000;
+  background: #FDD835;
+  padding: 1em;
+}
+
+.SC-white {
+  align-content: left;
+  text-decoration: none;
+  background: #fff;
+  padding: 2em;
+}
+
+.SC-white h4 {
+  color: #ef5350;
+}
+
+.line-SC {
+  background-color: #00C853;
+  width: 92%;
+  height: 3px;
+  display: inline-block;
+  margin: 14px 0px;
+}
+
+.SC-1 {
+  align-content: left;
+  text-decoration: none;
+  color: #fff;
+  background: #fff;
+  padding: 3em;
+}
+
+.SC-2 {
+  text-decoration: none;
+  align-content: center;
+  font-size: 15px;
+  color: #fff;
+  background: #4FC3F7;
+  padding: 2em;
+}
+
+#SC-2 {
+    text-decoration: none;
+    align-content: center;
+    font-size: 15px;
+    color: #fff;
+    background: #4FC3F7;
+    padding: 2em;
+}
